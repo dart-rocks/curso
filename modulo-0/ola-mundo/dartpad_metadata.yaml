@@ -1,0 +1,6 @@
+name: Primeiro programa em Dart
+mode: dart
+files:
+  - name: main.dart
+  - name: solution.dart
+  - name: hint.txt
