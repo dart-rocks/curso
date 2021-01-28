@@ -1,4 +1,4 @@
-main() {
+void main() {
   String digaAlgo = "Olá Fillipe Cordeiro";
   var isFalse = true;
   if (digaAlgo == null) {
