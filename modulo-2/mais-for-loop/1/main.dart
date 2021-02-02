@@ -1,4 +1,4 @@
-main(List<String> arguments) {
+void main() {
   loopContinue();
 }
 
