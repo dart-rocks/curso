@@ -1,0 +1,4 @@
+name: Operadores de Teste de Tipo
+mode: dart
+files:
+  - name: main.dart
