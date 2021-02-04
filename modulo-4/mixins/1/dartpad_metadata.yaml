@@ -1,0 +1,4 @@
+name: 'Mixins: Adicionando Mais Recursos a uma Classe'
+mode: dart
+files:
+  - name: main.dart
