@@ -1,0 +1,4 @@
+name: Escopo Léxico em Funções
+mode: dart
+files:
+  - name: main.dart

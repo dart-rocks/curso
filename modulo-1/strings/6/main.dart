@@ -3,7 +3,7 @@ void main() {
   var aConstantBoolean = true;
   var aConstantString = "Eu sou uma string constante.";
   const aValidConstantString =
-      "este é um número inteiro constante: ${aConstantInteger}, um booleano constante: ${aConstantBoolean}, uma string constante: ${aConstantString}";
+      "Este é um número inteiro constante: ${aConstantInteger}, um booleano constante: ${aConstantBoolean}, uma string constante: ${aConstantString}";
   print(
       "Esta é uma string constante válida e a saída é: $aValidConstantString");
 }
