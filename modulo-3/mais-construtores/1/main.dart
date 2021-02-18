@@ -8,8 +8,8 @@ class Bear {
 // Construtor do segundo nome
   Bear.secondNamedConstructor(this.collarID);
   void trackingBear() {
-    String
-        color; // impressão local varia ("Rastreando o urso com ID de coleira ${collarID}");
+    String color; // variavel local
+    print("Rastreando o urso com coleira ID ${collarID}");
   }
 }
 
