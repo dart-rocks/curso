@@ -1,0 +1,4 @@
+name: Um Closure é uma Função Especial
+mode: dart
+files:
+  - name: main.dart
