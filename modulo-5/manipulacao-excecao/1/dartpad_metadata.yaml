@@ -1,0 +1,4 @@
+name: Manipulação de Exceção
+mode: dart
+files:
+  - name: main.dart
