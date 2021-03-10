@@ -1,0 +1,4 @@
+name: A Fila Está Aberta
+mode: dart
+files:
+  - name: main.dart

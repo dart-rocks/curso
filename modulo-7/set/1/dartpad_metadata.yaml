@@ -1,0 +1,4 @@
+name: 'Set: Uma Coleção Não Ordenada de Itens Únicos'
+mode: dart
+files:
+  - name: main.dart
